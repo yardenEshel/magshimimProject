@@ -1,2 +1,2 @@
-MCSGUI - the client side
-MCSUI - the Server side
+**MCSGUI** - the client side\n
+**MCSUI** - the Server side
