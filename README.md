@@ -11,22 +11,33 @@ Enable computers within a LAN to utilize unused computational resources from oth
 **Key Features**
 
 **Resource Sharing**: Dynamic access to additional processing power and storage from a central server.
+
 **Application Offloading**: Run heavy applications on resource-abundant machines, while less capable machines manage the display.
+
 **Shared Storage**: Centralized storage with a robust access control system to ensure data privacy.
+
 **User-Friendly Interface**: A web server facilitates all user interactions with the system, providing a smooth and intuitive experience.
 Technical Specifications
 Components
 **Server**: Manages resource allocation, application operations, and user authentication.
+
 **Client Software**: Installed on each user’s machine, allowing resource requests and application management.
+
 **Web Interface**: Hosts the graphical user interface for user management and interaction.
+
 **Database**: Stores user data and permissions, supports secure access control and resource tracking.
+
 System Architecture
 **Resource Allocation**: Automatically allocates processing power and storage based on availability and demand.
+
 **Security Protocols**: Ensures secure data handling and communication within the network through encryption and access controls.
+
 Setup and Installation
 Requirements
 **Server**: Capable of handling multiple simultaneous connections and requests.
-Client Machines: Must be connected to the LAN and equipped with client software.
+
+**Client Machines:** Must be connected to the LAN and equipped with client software.
+
 **Web Server**: To host the user interface for managing interactions.
 
 ****Usage
